@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Alan Garin 👋
+
+##
 
 - 🔭 I’m trying to move into the programming area
 - 🌱 I’m currently learning JavaScript
