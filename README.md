@@ -1,12 +1,15 @@
-### Hi! I'm Alan Garin 👋
+💻 Sobre mim
+Sou um entusiasta de Análise de Dados e Machine Learning, em transição para o mercado de tecnologia. Tenho paixão por explorar dados e transformar insights em soluções práticas. 🚀
 
-##
-
-- 🔭.
-- 🌱.
+🛠️ Skills em desenvolvimento:
+Data Analytics: Limpeza, visualização e interpretação de dados.
+Machine Learning: Criação e otimização de modelos preditivos.
+Back-End: Desenvolvimento de APIs e manipulação de banco de dados.
+🌱 Sempre aprendendo:
+Atualmente, estou aprimorando minhas habilidades em Python, SQL, Power BI, e bibliotecas de machine learning como Scikit-learn e TensorFlow.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Alan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
